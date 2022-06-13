@@ -1,2 +1,2 @@
 # img-slider
-learning Javascript Vanilla
+Learning Javascript Vanilla
